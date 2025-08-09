@@ -1,0 +1,15 @@
+# Dockerignore for backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+backend.log
+*.log
+.git/
+.gitignore
+README.md
+tests/
+.pytest_cache/
